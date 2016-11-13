@@ -13,8 +13,8 @@ class App extends Component {
         <p className="App-intro">
 			This is my first "Hello World"
 		</p>
-		<div class="round-button">
-			<div class="round-button-circle">
+		<div className="round-button">
+			<div className="round-button-circle">
 				</div>
 		</div>
       </div>
